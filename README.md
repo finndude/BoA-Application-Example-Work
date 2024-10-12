@@ -5,5 +5,6 @@ This includes:
   * Python
   * C
   * Java
+  * Haskell
 
 Code for HTML, CSS and JavaScript are in another repository which is linked on the application.
